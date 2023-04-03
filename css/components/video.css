@@ -1,0 +1,13 @@
+.video {
+    background-color: #eee;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+iframe {
+    padding: 20px;
+}

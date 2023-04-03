@@ -1,0 +1,53 @@
+
+article {
+    width: 30%;
+    text-align: center;
+}
+
+article h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #ab000d;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 30%;
+    text-align: center;
+    background-color: #ffffff; /* couleur de fond blanc */
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+.card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+    max-width: 300px;
+    height: 200px;
+}
+
+.button-red {
+    color: black;
+    background-color: darkred;
+    padding: 9px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    justify-content: ;
+}
+
+.button-red:hover {
+    background-color: black;
+    color: white;
+}
+
+.card p {
+    margin-bottom: 20px; /* Adjust this value according to your preference */
+}

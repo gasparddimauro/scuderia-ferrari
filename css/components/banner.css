@@ -1,0 +1,19 @@
+.banner {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+.banner  i {
+  text-decoration: none;
+  color: #C41E3A;
+  margin-right: 20px;
+  font-size: 30px;
+
+}
+
+.banner i:hover {
+  color: #f9b233;
+}
